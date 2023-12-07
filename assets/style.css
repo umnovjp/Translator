@@ -61,6 +61,8 @@ h1 {
     margin-left: 160px; /* Same as the width of the sidenav */
     font-size: 14px; /* Increased text to enable scrolling */
     padding: 0px 10px;
+    height: 497px;
+    width: 730px;
   }
   
   .yearEntry{float:right;
